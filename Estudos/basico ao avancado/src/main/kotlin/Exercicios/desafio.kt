@@ -1,3 +1,5 @@
+TODO("NAO TERMINEI ISSO, FIQUEI COM PREGUICA")
+
 package Exercicios
 
 import kotlin.math.pow
